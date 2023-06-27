@@ -1,9 +1,9 @@
-#Oleg Gribkov
-##Junior frontend devoloper
-###Contact info
-* _location_: Minsk, Belarus
-* _phone_: +375297840656
-* _e-mail_: olegribkov@gmail.com
-* _telegram_ @olegribkov
-* _github_ [AlehHrybkou](https://github.com/AlehHrybkou)
+# Oleg Gribkov
+## junior frontend devoloper
+### Contact info
+* location: _Minsk, Belarus_
+* phone: _+375297840656_
+* e-mail: _olegribkov@gmail.com_
+* telegram: _@olegribkov_
+* github: _[AlehHrybkou](https://github.com/AlehHrybkou)_
 ### About Me
