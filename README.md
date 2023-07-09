@@ -1,1 +1,1 @@
-# rsschool-cv
+https://AlehHrybkou.github.io/rsschool-cv/
