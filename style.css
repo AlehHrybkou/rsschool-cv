@@ -2,7 +2,7 @@ nav {
     margin-left: 50%;
 }
 
-ul {
+.header-nav {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
