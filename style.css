@@ -80,6 +80,14 @@ img {
     height: 90%;
     margin: 3% 0 0 auto;
 }
+.about-me {
+    color:#262125;
+}
+
+.code-example{
+    color: #262125;
+}
+
 code {
     border-radius: 3px;
     font-family: courier, monospace;
@@ -102,12 +110,13 @@ code {
     display: flex;
     flex-direction: column;
     margin-left: 3%;
+    color: #262125;
 }
 footer {
     display: flex;
     justify-content: right;
     align-items: baseline;
-    color: black;
+    color: #262125;
     font-family: 'Oswald', sans-serif;
     font-size: 18px;
     margin-top: 1%;
