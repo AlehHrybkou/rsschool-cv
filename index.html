@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <link rel="icon" href="./assets/favicons/favicon-16x16.png">
     <title>CV</title>
     <meta charset="utf-8">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -13,11 +14,21 @@
       <header>
         <nav>
           <ul class="header-nav">
-            <li>About Me</li>
-            <li>Skills</li>
-            <li>Code example</li>
-            <li>Education</li>
-            <li>Contacts</li>
+            <li>
+              <a href="#about-me">About Me</a>
+            </li>
+            <li>
+              <a href="#skills">Skills</a>
+            </li>
+            <li>
+              <a href="#code-example">Code example</a>
+            </li>
+            <li>
+              <a href="#education">Education</a>
+            </li>
+            <li>
+              <a href="#contacts">Contacts</a>
+            </li>
           </ul>
         </nav>
       </header>
@@ -34,7 +45,9 @@
         <section class="wrapper">
           <div class="left-site">
             <div class="contacts">
-              <h3>CONTACTS</h3>
+              <a name="contacts">
+                <h3>CONTACTS</h3>
+              </a>
               <ul>
                 <li>location: Minsk, Belarus</li>
                 <li>phone: +375297840656</li>
@@ -42,14 +55,18 @@
               </ul>
             </div>
             <div class="education">
-              <h3>EDUCATION</h3>
+              <a name="education">
+                <h3>EDUCATION</h3>
+              </a>
               <ul>
                 <li>University: Brest State A.S. Pushkin University</li>
                 <li>Courses: The Rolling Scopes School (in progress)</li>
               </ul>
             </div>
             <div class="skills">
-              <h3>SKILLS</h3>
+              <a name="skills">
+                <h3>SKILLS</h3>
+              </a>
               <ul>
                 <li>HTML</li>
                 <li>CSS</li>
@@ -61,11 +78,15 @@
           </div>
           <div class="right-site">
             <div class="about-me">
-              <h3>ABOUT ME</h3>
+              <a name="about-me">
+                <h3>ABOUT ME</h3>
+              </a>
               <p>I have chosen a completely new direction for myself - Frontend development. This direction is very interesting to me. I like that in frontend you immediately see the result of your work. I hope that I can achieve good results and I will strive for it.</p>
             </div>
             <div class="code-example">
-              <h3>CODE EXAMPLE</h3>
+              <a name="code-example">
+                <h3>CODE EXAMPLE</h3>
+              </a>
               <pre>
                 <code>let counter = prompt('Enter number:');
                 for(let i = 0; i <= counter; i++) {

@@ -13,6 +13,10 @@ header {
 nav {
     margin-left: 50%;
 }
+a {
+    color: #e8e9eb;
+    text-decoration: none;
+}
 li {
     font-family: 'Narnoor', serif;
     font-size: 20px;
