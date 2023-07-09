@@ -12,3 +12,19 @@ ul {
     padding: 0;
     list-style: none;
 }
+
+.profile {
+    display: flex;
+    justify-content: space-around;
+}
+
+.profile-name {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+img {
+    width: 50%;
+    height: 90%;
+}
